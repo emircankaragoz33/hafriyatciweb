@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     default: "Keleş Hafriyat | Mersin Toroslar Kazı Dolgu & Hafriyat",
     template: "%s | Keleş Hafriyat"
   },
-  description: "Keleş Hafriyat - Mersin Toroslar'da kazı dolgu, bağ bahçe düzenleme, peyzaj, moloz kaldırma, temel açma ve profesyonel hafriyat hizmetleri. 0505 009 24 72",
-  keywords: ["keleş hafriyat", "hafriyat mersin", "mersin kazı dolgu", "toroslar hafriyat", "bağ bahçe düzenleme mersin", "kanal kazı", "altyapı kazı", "tesviye düzenleme", "taş duvar örme", "peyzaj düzenleme", "moloz kaldırma", "temel açma"],
+  description: "Keleş Hafriyat Mersin Toroslar Bölgesinde profesyonel kazı, dolgu, bağ bahçe düzenleme, peyzaj ve tüm hafriyat işlerinizde uzman ekibimizle hizmetinizdeyiz. Hemen teklif alın: 0533 619 92 96",
+  keywords: ["keleş hafriyat", "mersin hafriyat", "toroslar hafriyat", "kazı dolgu mersin", "bağ bahçe düzenleme", "peyzaj düzenleme mersin", "Keleş Hafriyat Mersin", "Emrullah Keleş", "hafriyatçı mersin"],
   authors: [{ name: "Keleş Hafriyat" }],
   creator: "Keleş Hafriyat",
   publisher: "Keleş Hafriyat",
@@ -70,7 +70,7 @@ const jsonLd = {
   "image": "https://keleshafriyat.com.tr/logo.png",
   "@id": "https://keleshafriyat.com.tr",
   "url": "https://keleshafriyat.com.tr",
-  "telephone": "0505 009 24 72",
+  "telephone": "0533 619 92 96",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Toroslar",

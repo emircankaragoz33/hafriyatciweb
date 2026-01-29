@@ -124,7 +124,7 @@ export default function Services() {
                     <div className="cta-box">
                         <h2>İhtiyacınız Olan Hizmeti Bulamadınız mı?</h2>
                         <p>Bizimle iletişime geçin, özel çözümler sunalım</p>
-                        <a href="tel:05050092472" className="btn-primary">
+                        <a href="tel:05336199296" className="btn-primary">
                             📞 HEMEN ARAYIN
                         </a>
                     </div>

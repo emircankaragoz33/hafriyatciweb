@@ -24,10 +24,10 @@ export default function Navbar() {
                     <Image
                         src="/logo.png"
                         alt="Keleş Hafriyat"
-                        width={200}
-                        height={70}
+                        width={250}
+                        height={90}
                         className="logo-img"
-                        style={{ objectFit: 'contain', height: '50px', width: 'auto' }}
+                        style={{ objectFit: 'contain', height: '80px', width: 'auto' }}
                         priority
                     />
                 </Link>

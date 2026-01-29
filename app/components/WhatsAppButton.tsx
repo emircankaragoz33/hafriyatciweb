@@ -3,7 +3,7 @@
 export default function WhatsAppButton() {
     return (
         <a
-            href="https://wa.me/905050092472"
+            href="https://wa.me/905336199296"
             className="whatsapp-float"
             target="_blank"
             rel="noopener noreferrer"

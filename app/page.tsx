@@ -103,7 +103,7 @@ export default function Home() {
                 Keleş Hafriyat olarak, Mersin  bölgesinde tüm hafriyat hizmetlerinde yanınızdayız.
               </p>
               <div className="hero-buttons">
-                <a href="tel:05050092472" className="btn-primary">
+                <a href="tel:05336199296" className="btn-primary">
                   TEKLİF AL
                 </a>
                 <Link href="/hizmetlerimiz" className="btn-secondary">
@@ -193,11 +193,11 @@ export default function Home() {
               Uzman ekibimiz projeniz için en uygun çözümü sunmaya hazır
             </p>
             <div className="cta-buttons">
-              <a href="tel:05050092472" className="btn-primary-large">
+              <a href="tel:05336199296" className="btn-primary-large">
                 <span className="btn-icon">📞</span>
                 <span>
                   <small>Hemen Arayın</small>
-                  <strong>0505 009 24 72</strong>
+                  <strong>0533 619 92 96</strong>
                 </span>
               </a>
               <Link href="/iletisim" className="btn-secondary-large">

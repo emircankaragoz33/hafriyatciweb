@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "İletişim | Keleş Hafriyat",
-    description: "Keleş Hafriyat ile iletişime geçin. Tel: 0505 009 24 72. Mersin Toroslar.",
+    description: "Keleş Hafriyat - Emrullah Keleş ile iletişime geçin. Tel: 0533 619 92 96. Mersin Toroslar.",
 };
 
 export default function Contact() {
@@ -21,11 +21,11 @@ export default function Contact() {
                     <div className="contact-grid">
                         {/* Contact Cards */}
                         <div className="contact-cards" style={{ gridColumn: '1 / -1', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem' }}>
-                            <a href="tel:05050092472" className="contact-info-card">
+                            <a href="tel:05336199296" className="contact-info-card">
                                 <div className="contact-card-content">
-                                    <h3>Telefon</h3>
-                                    <p className="contact-value">0505 009 24 72</p>
-                                    <span className="contact-note">Hemen arayın</span>
+                                    <h3>Telefon & İletişim</h3>
+                                    <p className="contact-value">0533 619 92 96</p>
+                                    <span className="contact-note">Emrullah Keleş</span>
                                 </div>
                             </a>
 
@@ -63,9 +63,9 @@ export default function Contact() {
                     <div className="quick-contact-box">
                         <h2>Acil Durum mu?</h2>
                         <p>7/24 acil hafriyat hizmetleri için hemen arayın</p>
-                        <a href="tel:05050092472" className="btn-emergency">
+                        <a href="tel:05336199296" className="btn-emergency">
                             <span>🚨</span>
-                            ACİL ARAMA: 0505 009 24 72
+                            ACİL ARAMA: 0533 619 92 96
                         </a>
                     </div>
                 </div>

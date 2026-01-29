@@ -43,7 +43,7 @@ npm start
 ## 📞 İletişim
 
 **Keleş Hafriyat**
-- 📱 Telefon: 0505 009 24 72
+- 📱 Telefon: 0533 619 92 96
 - 📍 Adres: Mersin Toroslar
 - ⏰ Çalışma Saatleri: 08:00 - 20:00
 
