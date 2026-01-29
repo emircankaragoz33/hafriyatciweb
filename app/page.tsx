@@ -83,8 +83,8 @@ export default function Home() {
       <section className="hero-section">
         <div className="hero-background">
           <Image
-            src="/video-bg.jpg"
-            alt="Keleş Hafriyat"
+            src="/hero-keles.jpg"
+            alt="Keleş Hafriyat İş Makineleri"
             fill
             priority
             style={{ objectFit: 'cover' }}
@@ -179,8 +179,8 @@ export default function Home() {
       <section className="cta-section">
         <div className="cta-background">
           <Image
-            src="/excavator-2.jpg"
-            alt="İletişim"
+            src="/hero-keles.jpg"
+            alt="Keleş Hafriyat Hizmetleri"
             fill
             style={{ objectFit: 'cover' }}
           />

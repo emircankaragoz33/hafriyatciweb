@@ -55,8 +55,8 @@ export default function About() {
                         <div className="content-image">
                             <div className="image-frame">
                                 <Image
-                                    src="/excavator-2.jpg"
-                                    alt="Keleş Hafriyat Ekibi"
+                                    src="/hero-keles.jpg"
+                                    alt="Keleş Hafriyat İş Makineleri"
                                     fill
                                     style={{ objectFit: 'cover' }}
                                 />
